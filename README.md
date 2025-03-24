@@ -17,9 +17,12 @@ pip install -r requirements.txt
 
 # Adjust configuration
 cp config.example.json config.json
+
 # Customize configuration to your needs
 ```
---
+
+
+
 [![Quick Start](assets/Quick_Sart.png)](assets/Quick_Sart.png)
 --
 [![Technology Stack](assets/Technology_Stack.png)](assets/Technology_Stack.png)
