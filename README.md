@@ -10,7 +10,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/[YourUsername]/NextGenDiscordVoiceManager.git
+git clone https://github.com/codingjonas009/SpeakHub.git
 
 # Install dependencies
 pip install -r requirements.txt
